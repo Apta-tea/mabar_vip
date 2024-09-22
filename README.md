@@ -8,6 +8,7 @@ Aplikasi Manajemen Member Mabar VIP
 - requirement Python 3.11.5, install dulu pythonnya bila belum ada, bisa di unduh di [sini](https://www.python.org/downloads/)
 - import library yang dibutuhkan bisa lewat terminal, cth: pip install streamlit streamlit_option_menu pandas sqlite3
 - eksekusi di terminal cth: streamlit run index.py
+- user : user , password : pass
 - aya mereun? [&#9749;](https://teer.id/apta-tea)
 - ada bug?, infokan di repo issues
 

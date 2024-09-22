@@ -1,5 +1,4 @@
 import streamlit as st
-import streamlit_option_menu 
 from streamlit_option_menu import option_menu
 from utils import login, is_authenticated
 from user import _profile_content
