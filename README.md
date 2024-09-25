@@ -9,6 +9,8 @@ Aplikasi Manajemen Member Mabar VIP
 - import library yang dibutuhkan bisa lewat cmd/ terminal, cth: c:/>pip install streamlit  
   c:/>pip install streamlit_option_menu
 - eksekusi di terminal cth: streamlit run index.py
+- review aplikasinya di [sini](https://mabar-vip.streamlit.app/)
+- mau unduh versi desktopnya aja? (windows only) unduh di [sini](https://drive.google.com/file/d/1G7LqLrPzWY5Qv7zPTrBI1YAW4OroJDEz/view?usp=drive_link)
 - user : user , password : pass
 - aya mereun? [&#9749;](https://teer.id/apta-tea)
 - ada bug?, infokan di repo issues
