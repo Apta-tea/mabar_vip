@@ -11,7 +11,7 @@ Aplikasi Manajemen Member Mabar VIP
 - eksekusi di terminal cth: streamlit run index.py
 - review aplikasinya di [sini](https://mabar-vip.streamlit.app/)
 - user : user , password : pass
-- aya mereun? [&#9749;](https://teer.id/apta-tea)
+- aya mereun? [&#9749;](https://teer.id/enpisi7)
 - ada bug?, infokan di repo issues
 
 ## License
